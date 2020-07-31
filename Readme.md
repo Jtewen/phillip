@@ -1,5 +1,5 @@
-# The Phillip AI
-An SSBM player based on Deep Reinforcement Learning.
+# The Phillip AI - EWEN'S FORK
+An SSBM player based on Deep Reinforcement Learning. This specific fork will be my attempt at altering the reward values in order to have the AI emulate professional players rather than just attempt to win. I will incorporate statistics such as move usage, stage control, pacing, and DI tendencies.
 
 ## Requirements
 
@@ -67,9 +67,8 @@ Training on Windows is not supported.
 
 Thanks to [microsoftv](https://github.com/microsoftv) there is now an [instructional video](https://www.youtube.com/watch?v=hxzpK719wV4) as well!
 
-## Support
-
-Come to the [Discord](https://discord.gg/KQ8vhd6)!
+## Fork Purpose
+In this fork I will attempt to alter the reward in order to 
 
 ## Recordings
 
